@@ -1,4 +1,5 @@
 {
+    "tag": 'testt',
     "files": {
         "path": "https://raw.githubusercontent.com/Appmaker-bot/test2/main/hello.py",
         "type": "command"
